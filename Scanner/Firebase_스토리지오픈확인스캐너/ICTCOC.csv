@@ -1,0 +1,3 @@
+scanned_at,target,project_id,database_url,storage_bucket,rtdb_status,firestore_status,storage_status,overall_risk,notes
+2026-08-18T15:34:46.315916+00:00,https://www.ictcoc.kr/index.asp,www,,www.firebasestorage.app,closed,no_firestore,no_bucket,OK - 노출 없음,
+2026-08-18T15:34:56.058551+00:00,project-rsvpasap,project-rsvpasap,,project-rsvpasap.firebasestorage.app,no_rtdb,no_firestore,open,"CRITICAL - 열려있음, 즉시 스캔 중단 후 팀 보고",Storage 버킷(project-rsvpasap.firebasestorage.app) 목록 조회(1건) 성공 — 파일 미다운로드

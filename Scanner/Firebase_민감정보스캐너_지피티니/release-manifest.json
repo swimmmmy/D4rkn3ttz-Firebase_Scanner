@@ -1,0 +1,74 @@
+{
+  "version": "1.0.0",
+  "build_time": "2026-08-22T18:02:02.804483+00:00",
+  "build_os": "Windows-11-10.0.26200-SP0",
+  "build_architecture": "AMD64",
+  "python_version": "3.12.10",
+  "pyinstaller_version": "6.15.0",
+  "source_hash": "6b5d48c49ab911dd3217d8a73d9d3af98dbf1fa0593526367c07183c71d634f6",
+  "dependency_lock_hash": "1dfbb9300059a4528e4b96da9004fe32ac285afa5ccb11ac180a754baa7f393b",
+  "tests": {
+    "pytest": "PASS",
+    "ruff": "PASS",
+    "mypy": "PASS",
+    "acceptance": "PASS",
+    "package_smoke_test": "PASS"
+  },
+  "files": [
+    {
+      "path": "FirebaseSecurityAuditor.exe",
+      "size": 17735170,
+      "sha256": "204cac8908d0b3a9d682f58e8033656e79698a51d0286d43c5d081d8a159cca7"
+    },
+    {
+      "path": "실행.bat",
+      "size": 502,
+      "sha256": "a8ea0bf1eafb20a02a1fc3bf100b9fb47a428b018eb904d318f1db179f7c9b7c"
+    },
+    {
+      "path": "실행방법.md",
+      "size": 2818,
+      "sha256": "05a060fb91d34ea3681154de6e100f404593fed7db333bfbd845753ae40a9a36"
+    },
+    {
+      "path": "README.md",
+      "size": 1689,
+      "sha256": "a25d3b4aa9f57d33f34a08b23f2e106d10f9ed8bfb35336fa8161c95c3a133e9"
+    },
+    {
+      "path": "결과해석가이드.md",
+      "size": 1595,
+      "sha256": "f8c7bcc2c953129e093e96e44ac0614982ba4ee098c8eaa48ff1de41340abc8e"
+    },
+    {
+      "path": "문제해결.md",
+      "size": 1651,
+      "sha256": "e30b9f82d03da5357c8f1deda174134f4192816e3061ae58b4c09aa86c3c0716"
+    },
+    {
+      "path": "SECURITY.md",
+      "size": 800,
+      "sha256": "b9b609d6183c5b652f6d953fc95c749ba0502cc9738c94e616979e8d71cd962a"
+    },
+    {
+      "path": "LICENSE",
+      "size": 1094,
+      "sha256": "1ce67b52f27af8eb164c6db6ddf2bbba05461227a51b1bd9d16858ca6a79f14f"
+    },
+    {
+      "path": "VERSION",
+      "size": 6,
+      "sha256": "59854984853104df5c353e2f681a15fc7924742f9a2e468c29af248dce45ce03"
+    },
+    {
+      "path": "config/scope.example.yml",
+      "size": 2015,
+      "sha256": "d9d6f685edea49991e37e208b7ea6b066e627ad10bc13b98c1935fef039f725f"
+    },
+    {
+      "path": "app/requirements.lock",
+      "size": 570,
+      "sha256": "1dfbb9300059a4528e4b96da9004fe32ac285afa5ccb11ac180a754baa7f393b"
+    }
+  ]
+}

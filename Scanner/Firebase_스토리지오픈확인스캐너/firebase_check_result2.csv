@@ -1,0 +1,2 @@
+scanned_at,target,project_id,database_url,storage_bucket,rtdb_status,firestore_status,storage_status,overall_risk,notes
+2026-08-18T14:48:30.858131+00:00,project-rsvpasap,project-rsvpasap,,project-rsvpasap.firebasestorage.app,no_rtdb,error(http 404),open,"CRITICAL - 열려있음, 즉시 스캔 중단 후 팀 보고",Storage 버킷(project-rsvpasap.firebasestorage.app) 목록 조회(1건) 성공 — 파일 미다운로드

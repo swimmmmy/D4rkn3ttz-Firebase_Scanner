@@ -1,0 +1,3 @@
+scanned_at,target,project_id,database_url,storage_bucket,rtdb_status,firestore_status,storage_status,overall_risk,notes
+2026-08-18T15:21:43.365860+00:00,https://www.tikit.day/,www,,www.firebasestorage.app,closed,error(http 404),error(error(www.firebasestorage.app: http 404) | error(www.appspot.com: http 404)),UNKNOWN - 재확인 필요,
+2026-08-18T15:21:53.631694+00:00,project-rsvpasap,project-rsvpasap,,project-rsvpasap.firebasestorage.app,no_rtdb,error(http 404),open,"CRITICAL - 열려있음, 즉시 스캔 중단 후 팀 보고",Storage 버킷(project-rsvpasap.firebasestorage.app) 목록 조회(1건) 성공 — 파일 미다운로드
