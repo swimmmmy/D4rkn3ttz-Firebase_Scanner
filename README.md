@@ -1,1 +1,3 @@
 # D4rkn3ttz-Firebase_Scanner
+
+스캐너 총 2개입니다요...
